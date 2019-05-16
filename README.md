@@ -1,14 +1,8 @@
 # Flappy-AI
 
-This project was the last project we have done this year at EPITA.
+This project was a really funny one.
+I have done it in my EPITA cursus.
 
-We had to put as much tetris pieces in a board as possible. We had one week to develop this solution.
+It consist of delopping an AI which can play Flappy Bird.
 
-For more information about the project, you can read tpcs12_fr_1.0.pdf
-which explain (in french) what this project consist in.
-
-We were free to do implement any solution we want to solve it. It was one of the funniest project we have done this year.
-
-Once you have understand the file format as explain in the pdf, you can look at bin/Debug/output.out to see the optimal solution of the bin/Debug/input.in
-
-You can also download it and test it yourself :D
+For more information about the project you can check tpcs12_fr_1.0.pdf
